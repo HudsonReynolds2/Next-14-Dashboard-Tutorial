@@ -1,58 +1,48 @@
 {
   "node": {
-    "6cea2d0d54f4de0a0a1513adc508b05d86cc92bc": {
+    "3075a31609c412029e2b257b6c9b1601ba22601f": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/login/page": "action-browser",
+        "app/dashboard/(overview)/page": "rsc",
         "app/dashboard/invoices/page": "rsc"
       }
     },
-    "a741a752bf7d00ccba894c90f03dae4d649c4d94": {
+    "6cea2d0d54f4de0a0a1513adc508b05d86cc92bc": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/login/page": "action-browser",
         "app/dashboard/invoices/page": "rsc"
       }
     },
     "d948f2cf6e19c0bf5820ef88a4ee92096ace9bda": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/login/page": "action-browser",
         "app/dashboard/invoices/page": "rsc"
       }
     },
     "ce867627091f64f980d1f4d18808162831d81413": {
       "workers": {
-        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22authenticate%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/login/page": "action-browser",
         "app/dashboard/invoices/page": "rsc"
       }
     },
-    "3075a31609c412029e2b257b6c9b1601ba22601f": {
+    "a741a752bf7d00ccba894c90f03dae4d649c4d94": {
       "workers": {
-        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%2C%22updateInvoice%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chrbea%5C%5CDesktop%5C%5CBoston%20University%5C%5CSem%204%5C%5CInternship%5C%5Cnext-tutorial%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/dashboard/(overview)/page": "rsc",
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/customers/page": "rsc"
+        "app/dashboard/invoices/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "plvBX0ZzAqgAoIL274Eug/DjsvKw3Vd417eqJo3z8Gg="
+  "encryptionKey": "7Ncgeu17Cq4fannnPbpu/QNLJI9AxIdVtahsY6gzUAQ="
 }

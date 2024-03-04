@@ -1,25 +1,15 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/login/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/login/page.css",
-      "static/chunks/app/login/page.js"
-    ],
     "/dashboard/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/dashboard/layout.css",
       "static/chunks/app/dashboard/layout.js"
     ],
     "/dashboard/(overview)/page": [
@@ -32,20 +22,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/(overview)/loading.js"
     ],
-    "/dashboard/invoices/error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/invoices/error.js"
-    ],
     "/dashboard/invoices/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/invoices/page.js"
     ],
-    "/dashboard/customers/page": [
+    "/dashboard/invoices/error": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/customers/page.js"
+      "static/chunks/app/dashboard/invoices/error.js"
     ]
   }
 }
